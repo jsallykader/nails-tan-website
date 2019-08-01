@@ -1,0 +1,76 @@
+body {
+    height: 100vh;
+}
+
+* {
+    font-family: 'Julius Sans One', sans-serif;
+}
+
+.navbar {
+    font-size: 1.5rem;
+    font-weight: 100;
+    background-color: #99b7e8;
+    font-family: 'Julius Sans One', sans-serif;
+}
+#screaming .nav-link {
+    color: #99b7e8;
+}
+#screaming .nav-link:hover {
+    color: #07588a;
+}
+
+#screaming .navbar-brand {
+    color: #99b7e8;
+    font-size: 2rem;
+}
+
+
+#home {
+    height: 100vh;
+    min-height: 50vh;
+    padding: 200px;   
+    text-align: center;
+    color:#e8d9a5;
+    font-family: 'Lobster Two', cursive;
+    background: url(jowens1.png);
+    background-size: cover;
+    background-position: center;
+    text-shadow: 1px 1px 0 #000,
+         -1px 1px 0 #000,
+         1px -1px 0 #000,
+         -1px -1px 0 #000,
+         0px 1px 0 #000,
+         0px -1px 0 #000,
+         -1px 0px 0 #000,
+         1px 0px 0 #000,
+        2px 2px 0 #000,
+         -2px 2px 0 #000,
+        2px -2px 0 #000,
+        -2px -2px 0 #000,
+        0px 2px 0 #000,
+        0px -2px 0 #000,
+         -2px 0px 0 #000,
+        2px 0px 0 #000,
+        1px 2px 0 #000,
+         -1px 2px 0 #000,
+        1px -2px 0 #000,
+         -1px -2px 0 #000,
+         2px 1px 0 #000,
+         -2px 1px 0 #000,
+         2px -1px 0 #000,
+         -2px -1px 0 #000;
+}
+
+#home h1 {
+    font-size: 7rem;
+}
+
+#home p {
+    font-size: 2rem;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
