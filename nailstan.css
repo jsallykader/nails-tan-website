@@ -7,21 +7,21 @@ body {
 }
 
 .navbar {
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-weight: 100;
     background-color: #99b7e8;
     font-family: 'Julius Sans One', sans-serif;
 }
-#screaming .nav-link {
-    color: #99b7e8;
+#navbar-custom .nav-link {
+    color: #447bd4;
 }
-#screaming .nav-link:hover {
-    color: #07588a;
+#navbar-custom .nav-link:hover {
+    color: #96b3e0;
 }
 
-#screaming .navbar-brand {
-    color: #99b7e8;
-    font-size: 2rem;
+#navbar-custom .navbar-brand {
+    color: #447bd4;
+    font-size: 1.5rem;
 }
 
 
