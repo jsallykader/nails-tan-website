@@ -85,3 +85,9 @@ h4 {
 #policy {
     height: 100vh;
 }
+
+.card {
+    display: flex;
+    background: transparent;
+    border: none;
+}
